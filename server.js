@@ -1,4 +1,4 @@
-// var test1 = require ("./test.js");// 返回一个模块对象
+ var test1 = require ("./test.js");// 返回一个模块对象
 // console.log(test1);
 // console.log(test1.a);
 
